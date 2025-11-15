@@ -1,0 +1,44 @@
+Build a complete personal website with clean, modern design. Use HTML, CSS, and minimal JavaScript. Make the site fully responsive for mobile and desktop. Follow these requirements:
+
+1. Structure
+Create the following pages or sections in a single-page layout with smooth scrolling:
+
+Home / Hero Section with a headline, subheadline, and call-to-action button.
+About Section with a short bio, skills list, and a photo placeholder.
+Services Section listing the services I offer (automation, AI tools, web tools, scrapers, chatbots).
+Portfolio Section with 4–6 project cards (use placeholder images and text).
+Contact Section with a working contact form (name, email, message).
+Footer with links and copyright.
+
+2. Design Requirements
+
+Use a clean, modern, professional style.
+Use a bold, readable font for headings and a simple font for body text.
+Use a dark theme or light theme based on what looks more modern.
+Add smooth hover effects on buttons and project cards.
+Add simple fade-in animations on scroll.
+Make spacing consistent and the layout balanced.
+
+3. Technical Requirements
+
+Write all code in separate files: `index.html`, `styles.css`, and `script.js`.
+Make the site load fast and keep code organized and easy to edit.
+Add SEO meta tags (title, description, keywords).
+Build a responsive navigation bar that turns into a hamburger menu on mobile.
+Make the contact form functional using a simple email service like Formspree.
+Add comments explaining each major section of code.
+
+4. Content Requirements
+Use placeholder text that I can replace later:
+
+Replace all personal text with generic labels like “[Your Name]”, “[Your Bio]”, “[Your Skills]”.
+Write brief, clear descriptions for each service using common words.
+Write short, simple descriptions for each portfolio project.
+Add a clear call to action in the hero section: “Hire Me” or “Work With Me”.
+
+5. Final Output
+
+Generate the full website structure.
+Provide all code for the HTML, CSS, and JS files.
+Make sure everything works together as a complete, ready-to-deploy website.
+After generating the code, show a simple checklist for deployment to Netlify or Vercel.
