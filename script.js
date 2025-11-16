@@ -8,11 +8,13 @@ const $$ = (selector) => Array.from(document.querySelectorAll(selector));
 // -------------------------------------------------------------
 const nav = document.getElementById("primary-nav");
 const toggle = document.getElementById("nav-toggle");
+const body = document.body;
 
 const toggleNav = () => {
   nav.classList.toggle("open");
   const isOpen = nav.classList.contains("open");
   toggle.setAttribute("aria-expanded", isOpen);
+  body.classList.toggle("nav-open", isOpen);
 };
 
 toggle.addEventListener("click", toggleNav);
